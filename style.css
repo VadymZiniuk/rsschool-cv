@@ -15,13 +15,17 @@ header {
     }
 h1 {
     font-family: 'Shadows Into Light', cursive;
-    margin: 0;
+    margin-top: 0;
+    margin-right: 260px;
+    margin-bottom: 0;
     padding: 15px;
     font-size: 3em;
     text-decoration: underline 2px;
 }
 ul {
     list-style:none;
+    margin: 0;
+    margin-right: 260px;
 }
 ul li {
     font-size: 1.4em;
@@ -33,5 +37,14 @@ a {
 }
 a:hover {
     color: chartreuse;
+}
+main {
+    background-color:rgb(255, 255, 38) ;
+    color:rgb(35, 35, 250) ;
+}
+h2 {
+    margin: 0;
+    padding:15px;
+    text-align: center;
 }
 
