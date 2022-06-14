@@ -36,7 +36,7 @@ a {
     color: rgb(255, 255, 38);
 }
 a:hover {
-    color: chartreuse;
+    color: rgb(21, 20, 20);
 }
 main {
     background-color:rgb(255, 255, 38) ;
@@ -51,4 +51,15 @@ h2 {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-evenly;
-      }
+}
+.main {
+    color:rgb(35, 35, 250) ;
+}
+p {
+    text-align: center;
+}
+pre {
+    background-color: rgb(201, 201, 33);
+    padding: 5px 15px;
+    border-radius: 25%;
+}
