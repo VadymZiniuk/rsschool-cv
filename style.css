@@ -47,4 +47,8 @@ h2 {
     padding:15px;
     text-align: center;
 }
-
+.top {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+      }
